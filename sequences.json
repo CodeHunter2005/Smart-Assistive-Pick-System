@@ -1,0 +1,57 @@
+{
+  "binCapacities": [2500, 2500, 2500, 2000, 1500, 1500],
+  "models": [
+    {
+      "id": 0,
+      "name": "Engine A",
+      "image": "/Images/engine_assembly_A.jpg",
+      "steps": [
+        { "step": 1, "part": "Bolt", "bin": 1, "qty": 4, "unitWeight": 59.0 },
+        { "step": 2, "part": "Nut", "bin": 2, "qty": 4, "unitWeight": 21.3 },
+        { "step": 3, "part": "Washer", "bin": 3, "qty": 4, "unitWeight": 13.0 },
+        { "step": 4, "part": "Coupler", "bin": 4, "qty": 1, "unitWeight": 179.0 },
+        { "step": 5, "part": "Bearing A", "bin": 5, "qty": 2, "unitWeight": 131.3 },
+        { "step": 6, "part": "Gasket", "bin": 6, "qty": 1, "unitWeight": 14.0 }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Engine B",
+      "image": "/Images/engine_assembly_B.jpg",
+      "steps": [
+        { "step": 1, "part": "Bolt", "bin": 1, "qty": 4, "unitWeight": 59.0 },
+        { "step": 2, "part": "Nut", "bin": 2, "qty": 4, "unitWeight": 21.3 },
+        { "step": 3, "part": "Washer", "bin": 3, "qty": 4, "unitWeight": 13.0 },
+        { "step": 4, "part": "Bearing B", "bin": 4, "qty": 1, "unitWeight": 107.5 },
+        { "step": 5, "part": "Bearing A", "bin": 5, "qty": 2, "unitWeight": 131.3 },
+        { "step": 6, "part": "Gasket", "bin": 6, "qty": 1, "unitWeight": 14.0 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gearbox Assembly",
+      "image": "/Images/gearbox.jpg",
+      "steps": [
+        { "step": 1, "part": "Hex Bolt M10", "bin": 1, "qty": 8, "unitWeight": 12.0 },
+        { "step": 2, "part": "Flat Washer", "bin": 2, "qty": 8, "unitWeight": 2.0 },
+        { "step": 3, "part": "Spring", "bin": 3, "qty": 4, "unitWeight": 6.0 },
+        { "step": 4, "part": "Retainer Clip", "bin": 4, "qty": 2, "unitWeight": 1.5 },
+        { "step": 5, "part": "Gasket", "bin": 5, "qty": 1, "unitWeight": 8.0 },
+        { "step": 6, "part": "Seal Ring", "bin": 6, "qty": 1, "unitWeight": 5.0 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "PCB Assembly",
+      "image": "/Images/pcb_assembly.jpg",
+      "steps": [
+        { "step": 1, "part": "Bare PCB", "bin": 1, "qty": 1, "unitWeight": 35.0 },
+        { "step": 2, "part": "SMD Resistors 10k", "bin": 2, "qty": 8, "unitWeight": 0.02 },
+        { "step": 3, "part": "MLCC Capacitors 100nF", "bin": 3, "qty": 6, "unitWeight": 0.03 },
+        { "step": 4, "part": "LED Indicator Red", "bin": 4, "qty": 3, "unitWeight": 0.25 },
+        { "step": 5, "part": "Fuse Holder", "bin": 5, "qty": 1, "unitWeight": 4.0 },
+        { "step": 6, "part": "Terminal Block", "bin": 6, "qty": 1, "unitWeight": 7.0 }
+      ]
+    }
+  ]
+}

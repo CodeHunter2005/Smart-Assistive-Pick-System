@@ -1,0 +1,5 @@
+employeeId,employeeName,department,designation,shift,status,pin,lastUpdated
+EMP001,Jeayavanth,Assembly,Senior Operator,Shift A,Active,1234,2026-06-20T13:00:00Z
+EMP002,Pavan,Quality,Quality Inspector,Shift A,Active,2345,2026-06-20T13:00:00Z
+EMP003,Manas,Assembly,Line Operator,Shift B,Active,3456,2026-06-20T13:00:00Z
+EMP004,Admin,Maintenance,Technician,Shift B,Inactive,4567,2026-06-20T13:00:00Z

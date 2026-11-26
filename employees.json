@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": "EMP001",
+      "name": "Jeayavanth",
+      "department": "Assembly",
+      "designation": "Senior Operator",
+      "shift": "Shift A",
+      "status": "Active",
+      "pin": "1234",
+      "lastUpdated": "2026-06-20T13:00:00Z"
+    },
+    {
+      "id": "EMP002",
+      "name": "Pavan Kumar",
+      "department": "Quality",
+      "designation": "Quality Inspector",
+      "shift": "Shift A",
+      "status": "Active",
+      "pin": "2345",
+      "lastUpdated": "2026-06-20T13:00:00Z"
+    },
+    {
+      "id": "EMP003",
+      "name": "Manas",
+      "department": "Assembly",
+      "designation": "Line Operator",
+      "shift": "Shift B",
+      "status": "Active",
+      "pin": "3456",
+      "lastUpdated": "2026-06-20T13:00:00Z"
+    },
+    {
+      "id": "EMP004",
+      "name": "Admin",
+      "department": "Maintenance",
+      "designation": "Technician",
+      "shift": "Shift B",
+      "status": "Inactive",
+      "pin": "4567",
+      "lastUpdated": "2026-06-20T13:00:00Z"
+    }
+  ]
+}
